@@ -40,24 +40,22 @@ Specific Objectives:
 The dataset comprisea historical data from Imdb and box office with information on genre, title, budget, gross profits and other features we can analyse to find out more about performance of movies. 
 According to imdb pro, a film has to make around double its cost to break even. Distributions receive money known as rentals that is nearly 50% of gross earning. Some movies spend more on advertising but this is covered by ancilliary streaming and tv revenue whose data we do not have access to. A film of 100m budget needs to make at least 255m to break even. https://pro.imdb.com/content/article/entertainment-industry-resources/featured-articles/how-is-the-success-of-films-and-tv-shows-measured/GLFTC8ZLBBUSNTM3
 
-image.png
-
 ### Analysis 
+
 `Total_gross` and `Profitability`: There is a strong positive correlation of 0.941 between the total gross and profitability of movies. This indicates that as the total gross increases, the profitability tends to increase as well. This suggests that movies with higher box office earnings are more likely to be profitable.
 
 `Production Budget` and `Profitability`: The correlation between production budget and profitability is relatively weak, with a value of 0.172. There is limited association between the production budget of a movie and its profitability. A higher production budget does not necessarily guarantee higher profitability. Other factors, such as marketing, distribution, and audience reception, may play significant roles in determining a movie's profitability.
-
 
 `Rating` and `Profitability`: The correlation between the movie rating and profitability is negative, with a value of -0.235. This suggests that there is a weak inverse relationship between the rating of a movie and its profitability. It implies that movies with higher ratings are not necessarily more profitable.
 
 Based on the conclusions drawn from the analysis:
 
-1. Prioritize producing movies in these genres which have shown a higher prevalence and audience interest;
-    - Adventure
-    - Action
-    - Family
-    - Fantasy
-    - Music
+1. Prioritize producing movies in these genres which have shown a higher prevalence and audience interest:
+   - Adventure
+   - Action
+   - Family
+   - Fantasy
+   - Music
 
 2. Prioritize strategies that aim to maximize both profitability and total gross given the positive relationship between profitability and total gross observed in the dataset of high-performing movies. 
 
@@ -68,5 +66,4 @@ Based on the conclusions drawn from the analysis:
 5. The studio should aim to increase its movie production output. More movies can lead to higher overall gross sales, provided they align with popular genres and maintain a focus on profitability.
 
 
-The link to presentation of findings. https://docs.google.com/presentation/d/1-STVA_1KYjX_UMhoOe1hw6DfreCVZAArZXS-kufmtbg/edit?usp=sharing
-
+The link to the presentation of findings: [Google Slides](https://docs.google.com/presentation/d/1-STVA_1KYjX_UMhoOe1hw6DfreCVZAArZXS-kufmtbg/edit?usp=sharing)
