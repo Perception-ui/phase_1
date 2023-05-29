@@ -45,4 +45,8 @@ According to imdb pro, a film has to make around double its cost to break even. 
 
 `Production Budget` and `Profitability`: The correlation between production budget and profitability is relatively weak, with a value of 0.172. There is limited association between the production budget of a movie and its profitability. A higher production budget does not necessarily guarantee higher profitability. Other factors, such as marketing, distribution, and audience reception, may play significant roles in determining a movie's profitability.
 
+
 `Rating` and `Profitability`: The correlation between the movie rating and profitability is negative, with a value of -0.235. This suggests that there is a weak inverse relationship between the rating of a movie and its profitability. It implies that movies with higher ratings are not necessarily more profitable. 
+
+The link to presentation of findings. https://docs.google.com/presentation/d/1-STVA_1KYjX_UMhoOe1hw6DfreCVZAArZXS-kufmtbg/edit?usp=sharing
+
